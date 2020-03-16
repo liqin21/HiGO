@@ -12,7 +12,7 @@
 
 <style scoped>
   .tabbar {
-    position: absolute;
+    position: fixed;
     bottom: 0;
     width: 100%;
     height: 49px;
